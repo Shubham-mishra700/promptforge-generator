@@ -1,0 +1,31 @@
+{
+  "name": "boil-gen",
+  "version": "1.0.3",
+  "description": "CLI to scaffold a standard MERN backend boilerplate",
+  "bin": {
+    "boil-gen": "./index.js"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mern",
+    "cli",
+    "express",
+    "mongodb",
+    "boilerplate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohanbhandari9703/mern-gen.git"
+  },
+  "author": "Rohan Bhandari",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.37.0",
+    "dotenv": "^17.2.3",
+    "env": "^0.0.2"
+  }
+}
