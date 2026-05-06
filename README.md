@@ -77,7 +77,7 @@ npm link
 2.  **Run the CLI** from any directory where you want to create your project:
 
 ```bash
-boil-gen "Build a social media app with user authentication"
+promtForge-generator "Build a social media app with user authentication"
 ```
 
 ### Examples
@@ -97,7 +97,7 @@ AUTO GENERATED FILES
  ![auto_generated_files](assets/auto_generated_files.png)
 **Fullstack MERN with TypeScript**
 ```bash
-boil-gen "Create a task management system using MERN stack and TypeScript"
+promtForge-generator "Create a task management system using MERN stack and TypeScript"
 ```
 
 
@@ -105,12 +105,12 @@ boil-gen "Create a task management system using MERN stack and TypeScript"
 
 **Frontend Portfolio**
 ```bash
-boil-gen "A personal portfolio website using React and Tailwind"
+promtForge-generator "A personal portfolio website using React and Tailwind"
 ```
 
 **Backend API**
 ```bash
-boil-gen "A REST API for an e-commerce store using Express and MongoDB"
+promtForge-generator "A REST API for an e-commerce store using Express and MongoDB"
 ```
 
 ---
