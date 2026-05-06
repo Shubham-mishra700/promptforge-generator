@@ -1,10 +1,8 @@
-# ⚡ BOIL-Gen
+# ⚡ PromptForge-Generator
 
 <!-- ![MERN-Gen Banner](assets/mern-gen-banner.png) -->
 
-**BOIL-Gen** is an intelligent, AI-powered CLI tool designed to instantly scaffold full-stack web applications. By leveraging the power of Google's Gemini AI, it interprets natural language prompts to generate production-ready architectures, complete with file structures, dependencies, and configuration files.
-
-Whether you need a simple MERN stack app, a specialized frontend portfolio, or a robust backend API, BOIL-Gen automates the setup process, saving you hours of boilerplate coding.
+PromptForge Generator is an AI-powered command line tool that helps developers instantly generate production-ready full-stack applications using natural language prompts.
 
 ---
 
