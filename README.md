@@ -2,7 +2,9 @@
 
 <!-- ![MERN-Gen Banner](assets/mern-gen-banner.png) -->
 
-PromptForge Generator is an AI-powered command line tool that helps developers instantly generate production-ready full-stack applications using natural language prompts.
+PromptForge Generator is an AI-powered command line tool that helps developers instantly generate production-ready full-stack applications using natural language prompts to generate production-ready architectures, complete with file structures, dependencies, and configuration files.
+
+Whether you need a simple MERN stack app, a specialized frontend portfolio, or a robust backend API, PromptForge-Generator automates the setup process, saving you hours of boilerplate coding.
 
 ---
 
