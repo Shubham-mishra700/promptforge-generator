@@ -83,7 +83,7 @@ promtForge-generator "Build a social media app with user authentication"
 ### Examples
 
 step 1 >
-![prompt](assets/prompt.png)
+![prompt](assets/promptforge.png)
 
 AUTO SETUP
 ![auto_setup](assets/auto_setup.png)
